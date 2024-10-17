@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Train_Pic</folder>
+	<filename>pic45.png</filename>
+	<path>C:\Users\Christina Halim\Downloads\Train_Pic-20240314T143333Z-001\Train_Pic\pic45.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>217</width>
+		<height>217</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>136</xmin>
+			<ymin>139</ymin>
+			<xmax>217</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

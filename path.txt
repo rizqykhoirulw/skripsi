@@ -1,0 +1,6 @@
+set PYTHONPATH=%PYTHONPATH%;E:/Tugas Kuliah Ciki/Semester 8 (SKRIPSI!!! PLIS NDANG MARI)/Skripsi/deteksi_sperm_baru/models
+set PYTHONPATH=%PYTHONPATH%;E:/Tugas Kuliah Ciki/Semester 8 (SKRIPSI!!! PLIS NDANG MARI)/Skripsi/deteksi_sperm_baru/models/research
+set PYTHONPATH=%PYTHONPATH%;E:/Tugas Kuliah Ciki/Semester 8 (SKRIPSI!!! PLIS NDANG MARI)/Skripsi/deteksi_sperm_baru/models/research/slim
+set PYTHONPATH=%PYTHONPATH%;E:/Tugas Kuliah Ciki/Semester 8 (SKRIPSI!!! PLIS NDANG MARI)/Skripsi/deteksi_sperm_baru/models/research/object_detection
+
+python object_detection/builders/model_builder_tf2_test.py
